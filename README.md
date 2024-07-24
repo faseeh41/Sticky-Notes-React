@@ -1,9 +1,9 @@
-## Tailwind FrontEnd Easy Styling
+## Sticky Notes "Take your Notes on a Click"
 
-## Using Tailwind CSS made easier for everyone!
+## Using vite + React made easier for everyone!
 
 <h2 align="center">
-  <a href="https://faseehblogs.vercel.app/" target="_blank">faseehblogs.vercel.app</a>
+  <a href="https://sticky-notes-react-eight.vercel.app/" target="_blank">Sticky-Notes.vercel.app</a>
 </h2>
 
 <div align="center">
@@ -12,27 +12,13 @@
 
 <br/>
 
-<center>
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-
-</center>
-
-<h3 align="center">
-    🔹
-    <a href="https://github.com/faseeh41/Bits-0f-C0de/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/faseeh41/Bits-0f-C0de/issues">Request Feature</a>
-</h3>
 
 ## Built With
 
 This project was built using these technologies.
 
 - Node.js
-- Tailwind Css
+- Vite Css
 - Javascript
 - VsCode
 - Html
@@ -43,7 +29,7 @@ This project was built using these technologies.
 
 **✏️ Easy to customize and write of your own**
 
-**🎨 Styled with Tailwind Css**
+**🎨 Styled with Vite Css**
 
 ## Getting Started
 
