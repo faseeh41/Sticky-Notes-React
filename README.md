@@ -3,7 +3,7 @@
 ## Using vite + React made easier for everyone!
 
 <h2 align="center">
-  <a href="https://sticky-notes-react-eight.vercel.app/" target="_blank">Sticky-Notes.vercel.app</a>
+  <a href="https://sticky-notes-react-faseeh.vercel.app/" target="_blank">Sticky-Notes-React-Faseeh.vercel.app</a>
 </h2>
 
 <div align="center">
